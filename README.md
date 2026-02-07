@@ -111,16 +111,6 @@ This grand apparatus combines a **fine-tuned BERT model** (a most learned oracle
 
 ---
 
-### ⚔️ Lord Dheyn's Automata
-
-A defensive enchantment designed to ward off the dark sorcery of **SQL Injection**. By utilizing **Finite State Automata**, we ensure the kingdom's databases remain unassailable by marauders. 🛡️
-
-> **Forged With:**
->
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Automata](https://img.shields.io/badge/Finite_State_Automata-critical?style=flat-square) ![Security](https://img.shields.io/badge/SQL_Injection_Defense-red?style=flat-square)
-
----
-
 ## 🛠️ The Royal Forge (Hardware)
 
 *Behold the iron that powers the spirit:*
