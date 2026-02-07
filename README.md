@@ -13,17 +13,20 @@ In my quest to master the computational arts, I wield a forge tempered by the fi
 
     The Sentinels of Logic: Mistral-7B, Google Gemini 2.5, & XGBoost
 
-📜 Epic Quests (Current Projects)
+📜 Epic Quests & Grand Works
+🛡️ Ye Olde Academic Burnout Prevention & Rule-Based Advisory System
+
+A most wondrous contraption of machine learning sorcery! This system doth analyze the journal entries of weary scholars to detect signs of academic burnout and bestow upon them personalized counsel for mental wellness. A true shield for the mind in times of scholarly strife. 📜✨
 👑 BOSSMAN AI – The Ultimate Tech Support Assistant
 
 A grand unified system that granteth the common folk the wisdom of the elders. It utilize-eth Computer Vision to identify hardware from scrolls (images) and Large Language Models to provide counsel on repairs.
 
-    Built With: PyTorch, Hugging Face, & NVIDIA RTX 5060 Ti.
+    Forged With: PyTorch, Hugging Face, & NVIDIA RTX 5060 Ti.
 
 📊 FrameMetric — FPSBench
 
-A collaborative tome forged alongside Sir Jaypee. This arcane tool gazes into the future of thy PC specifications to predict the smoothness of thy visual adventures (FPS) using XGBoost and CUDA GPU Acceleration.
-🛡️ Lord Dheyn’s Automata
+An AI-powered tool forged alongside Sir Jaypee that gazes into the future of thy PC specifications to predict the smoothness of thy visual adventures (FPS) using XGBoost and CUDA GPU Acceleration. ⚡
+⚔️ Lord Dheyn’s Automata
 
 A defensive enchantment designed to ward off the dark sorcery of SQL Injection. By utilizing Finite State Automata, we ensure the kingdom's databases remain unassailable by marauders.
 🛠️ The Royal Forge (Hardware)
