@@ -48,11 +48,6 @@ And lo, the Oracle shall reveal thy destiny in frames per second! ✨
 
 > **Forged With:** ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA_GPU_Acceleration-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-⚔️ Lord Dheyn's Automata
-
-A defensive enchantment designed to ward off the dark sorcery of SQL Injection. By utilizing Finite State Automata, we ensure the kingdom's databases remain unassailable by marauders.
-🛠️ The Royal Forge (Hardware)
-
 Behold the iron that powers the spirit:
 
 > **The Primary Engine:** ![RTX 5060 Ti](https://img.shields.io/badge/RTX_5060_Ti_(Blackwell)-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 🚀
