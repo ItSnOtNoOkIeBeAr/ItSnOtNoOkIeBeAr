@@ -42,11 +42,15 @@
 
 ### 👑 BOSSMAN AI – The Ultimate Tech Support Assistant
 
+#### 📜 AI Model Project – PyTorch & Hugging Face + Hardware Classifier
+
 <img align="right" width="100" src="https://img.shields.io/badge/⚔️_FLAGSHIP-gold?style=for-the-badge" />
 
 > *A grand tome crafted in honor of thee, Almighty Bossman* 👑
 
 #### ⚔️ Prologue of the Arcane System
+
+In this sacred project, thou shalt wield the powers of **PyTorch** and **Hugging Face**, calling forth a unified AI system that can both **chat intelligently** and **identify computer hardware from images**.
 
 Behold! A fully functional **AI-powered tech support assistant** that combines **conversational AI**, **hardware image recognition**, and **cloud infrastructure** to help users solve computer hardware problems. This sacred project wields **THREE mighty AI powers** united with Firebase authentication, Supabase database & storage, and a ChatGPT-style interface to create the ultimate tech support experience!
 
