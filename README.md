@@ -48,6 +48,7 @@
 | **TensorRT-LLM** | Deploy and optimize large language models with GPU-focused inference pipelines. | Faster token generation and stronger memory efficiency at scale. |
 | **INT8 Quantization / AWQ** | Quantize LLMs to reduce memory usage while keeping output quality stable. | Large VRAM savings and improved deployability on limited hardware. |
 | **NF4 + QLoRA** | Fine-tune 7B-class models in 4-bit with high-precision adapters. | Efficient customization without full-precision retraining costs. |
+| **CUDA C++ (GPU Native Tongue)** | Forge and tune native GPU kernels in CUDA C++ for low-level acceleration rites. | Maximum command over performance, memory paths, and raw compute speed on NVIDIA metal. |
 
 ---
 
