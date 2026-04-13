@@ -68,6 +68,20 @@ In this sacred project, thou shalt wield the powers of **PyTorch** and **Hugging
 
 Behold! A fully functional **AI-powered tech support assistant** that combines **conversational AI**, **hardware image recognition**, and **cloud infrastructure** to help users solve computer hardware problems. This sacred project wields **THREE mighty AI powers** united with Firebase authentication, Supabase database & storage, and a ChatGPT-style interface to create the ultimate tech support experience!
 
+#### ⚡ Volume I: The Active Arsenal (Current Training Optimization)
+
+*These battle-proven rites are woven into my present PyTorch training loops, driving swifter epochs upon the RTX 5060 Ti.*
+
+| The Warlord's Spell (Optimization) | The Technical Mechanism | The Royal Advantage (Why it is Insanely Fast) |
+|:---|:---|:---|
+| **The Massive Feast**<br>(Batch Size = 96 to 128) | Loading great battalions of samples at once, from 96 vision images to 128 NLP sequences per step. | Fills the 16GB war-chest of VRAM and cuts the idle churn between steps, so training flows in long, uninterrupted strikes. |
+| **The Speed of Light**<br>(TF32 Precision) | Unleashing TensorFloat-32 upon 5th Gen Tensor Cores for matrix-heavy vision and language operations. | Grants near 16-bit pace for heavyweight 32-bit arithmetic, a gift older RTX generations cannot fully command. |
+| **The Memory Saver**<br>(AMP Auto: BF16/FP16) | Letting Automatic Mixed Precision choose leaner numeric formats as computation demands shift. | Preserves precious VRAM while keeping model wisdom intact, delivering faster training without dulling accuracy. |
+| **The Silicon Key**<br>(Channels Last Format) | [VISION EXCLUSIVE] Reordering image tensors into channels-last memory layout before GPU execution. | Aligns data with Blackwell's favored access path, helping vision workloads move with steadier speed. |
+| **The Text Compactor**<br>(Dynamic Padding) | [NLP EXCLUSIVE] Padding each batch only to its longest sequence, rather than to a global maximum. | Cuts needless token padding, trims memory waste per step, and hastens BERT-style training in practice. |
+| **The Conveyor Belt**<br>(Optimized DataLoader) | Tuning the loader with prefetch factor and persistent workers to keep the input stream primed. | Keeps the CPU feeding the next batch before the prior one is spent, leaving the GPU with little time to wait. |
+| **The Pre-Battle Tune**<br>(cuDNN Benchmark) | Running cuDNN benchmark trials at the outset to pick the swiftest kernels for fixed tensor shapes. | Ensures the RTX 5060 Ti fights with the best algorithmic path for its silicon temperament. |
+
 Originally forged with PyTorch 2.5.1 on NVIDIA Turing architecture (RTX 2070 & GTX 1660 Super) ⚡ — Now upgraded to PyTorch 2.11.0 Nightly with NVIDIA Blackwell architecture (RTX 5060 Ti) 🚀
 
 > **Forged With:**
