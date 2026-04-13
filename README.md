@@ -38,6 +38,19 @@
 
 ---
 
+## 🧠 NVIDIA Forge Mastery
+
+*This section describes my NVIDIA deployment and optimization expertise. These techniques are part of my skill set and not claimed as fully integrated into every project yet.*
+
+| NVIDIA Technology | What I know how to do with it | Typical impact |
+|:---|:---|:---|
+| **TensorRT / ONNX** | Export trained `.pth` models and build TensorRT engines (`.engine`) for production inference. | Lower latency, higher throughput, and minimal CPU bottlenecks. |
+| **TensorRT-LLM** | Deploy and optimize large language models with GPU-focused inference pipelines. | Faster token generation and stronger memory efficiency at scale. |
+| **INT8 Quantization / AWQ** | Quantize LLMs to reduce memory usage while keeping output quality stable. | Large VRAM savings and improved deployability on limited hardware. |
+| **NF4 + QLoRA** | Fine-tune 7B-class models in 4-bit with high-precision adapters. | Efficient customization without full-precision retraining costs. |
+
+---
+
 ## 📜 Epic Quests & Grand Works
 
 ### 👑 BOSSMAN AI – The Ultimate Tech Support Assistant
