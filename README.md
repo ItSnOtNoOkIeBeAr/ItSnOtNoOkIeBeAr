@@ -40,9 +40,9 @@
 
 ## 🧠 NVIDIA Forge Mastery
 
-*This section describes my NVIDIA deployment and optimization expertise. These techniques are part of my skill set and not claimed as fully integrated into every project yet.*
+*Within this sacred chapter lie the NVIDIA arts I have mastered; I knoweth well how to wield these runes of deployment and optimization in real-world craft.*
 
-| NVIDIA Technology | What I know how to do with it | Typical impact |
+| NVIDIA Arcane Art | How I Wield It | Realm-Bound Impact |
 |:---|:---|:---|
 | **TensorRT / ONNX** | Export trained `.pth` models and build TensorRT engines (`.engine`) for production inference. | Lower latency, higher throughput, and minimal CPU bottlenecks. |
 | **TensorRT-LLM** | Deploy and optimize large language models with GPU-focused inference pipelines. | Faster token generation and stronger memory efficiency at scale. |
