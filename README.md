@@ -68,9 +68,9 @@ In this sacred project, thou shalt wield the powers of **PyTorch** and **Hugging
 
 Behold! A fully functional **AI-powered tech support assistant** that combines **conversational AI**, **hardware image recognition**, and **cloud infrastructure** to help users solve computer hardware problems. This sacred project wields **THREE mighty AI powers** united with Firebase authentication, Supabase database & storage, and a ChatGPT-style interface to create the ultimate tech support experience!
 
-#### ⚡ Volume I: The Active Arsenal (Current Training Optimization)
+#### ⚡ Volume I: The Blackwell Arsenal (RTX 5060 Ti Training Optimization)
 
-*These battle-proven rites are woven into my present PyTorch training loops, driving swifter epochs upon the RTX 5060 Ti.*
+*These battle-proven rites are forged for NVIDIA Blackwell and woven into my PyTorch training loops to drive swifter epochs upon the RTX 5060 Ti.*
 
 | The Warlord's Spell (Optimization) | The Technical Mechanism | The Royal Advantage (Why it is Insanely Fast) |
 |:---|:---|:---|
